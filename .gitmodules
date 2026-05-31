@@ -1,0 +1,6 @@
+[submodule "weather_frontend"]
+	path = weather_frontend
+	url = https://github.com/DanielLS2000/Weather-App-Frontend
+[submodule "weather_backend"]
+	path = weather_backend
+	url = https://github.com/DanielLS2000/Weather-App-Backend

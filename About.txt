@@ -1,0 +1,96 @@
+Sobre a vaga
+
+About PM Accelerator: PM Accelerator is a US based company with a global reach premiering in AI learning and as a development hub, featuring award-winning AI products and mentors from top-tier companies such as Google, Meta, Apple, and Nvidia. We offer a dynamic AI PM Bootcamp, designed to empower the next generation of AI professionals through hands-on experience, mentorship, and real-world projects.
+
+
+Company Website: https://www.pmaccelerator.io/
+
+
+Role Overview: We are seeking passionate and motivated AI Engineering Interns for the Spring & Summer 2026 semesters to partner with other professionals within the USA. This internship is ideal for individuals with a strong interest in AI, eager to learn and explore cutting-edge AI tools and frameworks and want to have experience interning at a U.S. based company. As part of our team, you will work on projects involving large language models (LLMs), machine learning, prompt engineering, GenAI application development, ChatGPT API integration, and data pipeline development. You will collaborate with a multidisciplinary team, including AI-software engineers, data scientists, UI/UX designers and product managers from our PM Accelerator community to bring innovative tech ideas to life.
+
+
+Requirements: International Candidates (non-US or Canada) must be willing to overlap at least 4-hours per day to communicate with US teams. The times can be negotiable with the teams once accepted and joining on an AI product. Fluency in English is necessary. 
+
+
+AI Engineer Intern can be existing working software engineers, data scientist professionals or accredited college students Bachelors/Masters/PhD (in Computer Science, Computer/Software Engineering, Data Analytics, AI Engineering programs).  
+
+    Front-end skills should primarily be in React.JS
+    Back-end skills should primarily be in Python
+    Data Science skills should primarily be in modeling and data pipelines
+
+
+During your internship, you will work with PM Accelerator’s existing PM students, who are within the USA and around the world, inside of the AI PM bootcamp. They will drive real world user pain points into AI minimum-viable-product (MVP) solutions.
+
+
+Team Structure will be the following:
+
+    AI/ML Engineers - Front-end and/or Backend, or Data Science 
+    Product Managers from the PMA community
+    UI/UX designers
+
+
+Key Responsibilities:
+
+    Collaborate with product managers, designers, and data scientists to design and develop AI-driven and GenAI applications.
+    Engage in continuous learning and exploration of GenAI tools and frameworks, applying them in real-world scenarios.
+    Contribute to either front-end or back-end development, depending on your expertise.
+    Execute the integration of AI technologies, including LLMs, machine learning models, prompt engineering, and various APIs, into applications.
+    Contribute to the creation and optimization of data pipelines supporting AI models and product features.
+    Participate in regular team meetings and contribute to the agile development process.
+
+
+Required Skills:
+
+    Strong interest in AI and a willingness to learn and explore GenAI tools and frameworks.
+    Programming skills in languages such as Python, JavaScript (React, Angular, Express.js, Node.js, NextJS), or similar.
+    Front-end and Back-end engineers are welcome; Full-Stack developers are preferred.
+    Excellent problem-solving skills and ability to work in a collaborative environment.
+    Strong communication skills, both written and verbal.
+
+
+Preferred Skills :
+
+    Frontend: Ability to use asynchronous API calls in React via fetch or axios to make HTTP requests to an LLM API endpoint. 
+    Frontend: Ability to consider user interactions when interacting with a model and guide users accordingly
+    Backend - Understanding of machine learning concepts and frameworks (e.g., TensorFlow, PyTorch).
+    Backend/Frontend - API integration - Familiarity with REST, GraphQL, or gRPC.
+    Data Scientist = Familiarity with data pipelines: Ingestion, Cleaning/preprocessing, Transformation/Feature Engineering, Model Training/Evaluation, Model Deploying/Serving and Monitoring/Maintenance
+
+
+Benefits:
+
+    Hands-On Experience: Master the skills needed to develop and launch real-life GenAI products, a significant advantage for your future career.
+    Free AI Engineer Certification: Upon successful completion of the internship, you will receive an AI Engineer Certification.
+    LinkedIn Recognition: Add your role as an AI Engineer to your LinkedIn experience section, highlighting your work on the project.
+    Tech Advisor Support: Access weekly office hours hosted by our tech advisors to help guide your development.
+    Educational Resources: Gain access to recommended tech courses tailored for developers and data scientists.
+    Networking Opportunities: Connect with AI/ML engineer job referral opportunities within our AI Project community channel.
+    School Credit: Eligible to receive school credit if required by your university.
+    Fully-remote: We welcome qualified candidates from all over the world to apply for this position.
+
+
+Note: This is an unpaid internship opportunity with CPT and OPT sponsorship available for eligible candidates. If you already graduated, you are welcome to apply as well.
+
+
+Internship timeline:
+
+    Option 1: Early-April to Mid-June (2026)
+    Option 2: Late-June to Late-August (2026)
+
+
+The internship program is a 3-month duration.
+
+
+Qualified candidates are encouraged to continue to a 6-month internship
+
+
+Application Process: To apply, please submit the following information:
+
+    Resume
+    Link to your LinkedIn profile
+    What time do you want to do the internship: Option 1, 2, or all of them
+    Cover letter explaining your interest in AI, why you are interested in this role, and how you hope to contribute to our team. 
+    Link to your Github depository (if available).
+
+
+Applications will be reviewed on a rolling basis.
